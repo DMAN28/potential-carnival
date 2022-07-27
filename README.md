@@ -11,7 +11,6 @@
 
 
 ## Description
-  https://shekel-stack-app.herokuapp.com/
 This application was made for any user that would like to track personal expenses on the go. It allows the user to input expenses a graph allows the user to visualize expenses. Developed as a progressive web application.
 ### Preview
 
