@@ -20,7 +20,6 @@ This application is deployed at
 
   https://shekel-stack-app.herokuapp.com/
 
-User can name a transaction and input the amount the user can then press a button that allows them to either add or subtract funds.
 
 ## Table of contents
 
@@ -39,7 +38,7 @@ https://shekel-stack-app.herokuapp.com/
 
 ## Usage
 
-
+User can name a transaction and input the amount then user can press a button that allows them to either add or subtract funds from there total depending on the users over input.
 
 ## Maintainers
 [@David Manriquez](https://github.com/DMAN28)
